@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kaanbasakinci.
-- 👀 I’m interested in C/C++, Embedded Software Development.
-- 🌱 I’m currently learning almost everything.
-- 💞️ I’m looking to collaborate on I don't know.
+- � Hi, I’m @kaanbasakinci.
+- � I’m interested in C/C++, Embedded Software Development.
+- � I’m currently learning almost everything.
+
 - 📫 How to reach me omerkaanbasakinci@gmail.com
 
 <!---
